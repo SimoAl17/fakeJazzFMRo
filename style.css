@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    margin: 0px;
+}
+
+.player{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    min-height: 100vh;
+    background-color: #ffcc00;
+}
+
+.trumpet{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: #660099;
+}
+
+.trumpetGirl{
+    margin-bottom: -4px
+}
+
+.instructions{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: #ffcc00;
+    height: 3000px;
+}
+
+.instructions h2{
+    margin-top: 0px;
+    padding-top: 30px;
+    margin-left: 20px;
+    font-size: 300px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: -4.25px;
+    line-height: 240px;
+}
+
+.instr0{
+    display: flex;
+    justify-content: space-between;
+}
+
+.instr0 img{
+    width: 221px;
+    height: 221px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+.instr1{
+    display: flex;
+}
